@@ -1,3 +1,5 @@
+# Домашнее задание  «Жизненный цикл ПО»
+
 1. Созданный workflow в jira  
 ![workflow jira 9-1](https://github.com/user-attachments/assets/567f087b-4b51-468a-a583-13c75c7b2e35)
 2. Backlog в Kanban
